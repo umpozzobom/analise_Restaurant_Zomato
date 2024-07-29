@@ -158,8 +158,10 @@ pais_options = st.sidebar.multiselect(
        'Canada', 'Singapure', 'United Arab Emirates', 'India',
        'Indonesia', 'New Zeland', 'England', 'Quatar', 'South Africa',
        'Sri Lanka', 'Turkey'],
-  default= ['United States of America',
-      'Brazil', 'United Arab Emirates', 'India'])
+  default= ['Philippines', 'Brazil', 'Australia', 'United States of America',
+       'Canada', 'Singapure', 'United Arab Emirates', 'India',
+       'Indonesia', 'New Zeland', 'England', 'Quatar', 'South Africa',
+       'Sri Lanka', 'Turkey'])
 
 cidades_options = st.sidebar.multiselect(
   'Selecione a cidade de interesse:',
@@ -188,7 +190,31 @@ cidades_options = st.sidebar.multiselect(
        'East Rand', 'Inner City', 'Johannesburg', 'Johannesburg South',
        'Midrand', 'Pretoria', 'Randburg', 'Roodepoort', 'Sandton',
        'Colombo', 'Ankara', 'İstanbul'],
-  default= ['Rio de Janeiro', 'São Paulo', 'Adelaide', 'Birmingham'])
+  default= ['Las Piñas City', 'Makati City', 'Mandaluyong City', 'Manila',
+       'Marikina City', 'Muntinlupa City', 'Pasay City', 'Pasig City',
+       'Quezon City', 'San Juan City', 'Tagaytay City', 'Taguig City',
+       'Brasília', 'Rio de Janeiro', 'São Paulo', 'Adelaide', 'Atlanta',
+       'Austin', 'Boston', 'Brisbane', 'Calgary', 'Charlotte', 'Chicago',
+       'Dallas', 'Denver', 'Detroit', 'Houston', 'Las Vegas',
+       'Los Angeles', 'Miami', 'Montreal', 'New Orleans', 'New York City',
+       'Ottawa', 'Perth', 'Philadelphia', 'Phoenix', 'Portland',
+       'San Antonio', 'San Diego', 'San Francisco', 'Seattle',
+       'Singapore', 'Washington DC', 'Abu Dhabi', 'Dubai', 'Fujairah',
+       'Sharjah', 'Agra', 'Ahmedabad', 'Allahabad', 'Amritsar',
+       'Aurangabad', 'Bangalore', 'Bhopal', 'Bhubaneshwar', 'Chandigarh',
+       'Chennai', 'Coimbatore', 'Dehradun', 'Gandhinagar', 'Gangtok',
+       'Ghaziabad', 'Goa', 'Gurgaon', 'Guwahati', 'Hyderabad', 'Indore',
+       'Jaipur', 'Kanpur', 'Kochi', 'Kolkata', 'Lucknow', 'Ludhiana',
+       'Mangalore', 'Mohali', 'Mumbai', 'Mysore', 'Nagpur', 'Nashik',
+       'Nasik', 'New Delhi', 'Noida', 'Ooty', 'Panchkula', 'Patna',
+       'Puducherry', 'Pune', 'Ranchi', 'Secunderabad', 'Shimla', 'Surat',
+       'Thane', 'Vadodara', 'Varanasi', 'Vizag', 'Zirakpur', 'Bogor',
+       'Jakarta', 'Tangerang', 'Auckland', 'Hamilton', 'Wellington',
+       'Wellington City', 'Birmingham', 'Edinburgh', 'Glasgow', 'London',
+       'Manchester', 'Doha', 'Cape Town', 'Clarens', 'Durban',
+       'East Rand', 'Inner City', 'Johannesburg', 'Johannesburg South',
+       'Midrand', 'Pretoria', 'Randburg', 'Roodepoort', 'Sandton',
+       'Colombo', 'Ankara', 'İstanbul'])
 
 st.sidebar.markdown('#### Powered by Umpozzobom')
 st.sidebar.markdown("""___""")
