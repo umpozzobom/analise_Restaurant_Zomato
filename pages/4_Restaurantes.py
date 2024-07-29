@@ -233,7 +233,15 @@ cidades_options = st.sidebar.multiselect(
 st.sidebar.markdown("""___""")
 st.sidebar.markdown("""___""")
 st.sidebar.markdown('##### Powered by Umpozzobom')
-st.sidebar.markdown('###### E-mail: umpozzobom.costa@gmail.com')
+
+#Para que os filtros funcionem,add os códigos abaixo:
+
+linhas_selecionadas = df['Country'].isin(pais_options)
+df = df.loc[linhas_selecionadas, :]
+
+
+linhas_selecionadas = df['City'].isin(cidades_options)
+df = df.loc[linhas_selecionadas, :]
 
 #===========================================================================================#
 #     LAYOUT DO STREMEALIT - criação das tabs com as informações a serem apresentadas       #
