@@ -1,13 +1,19 @@
 # Apresentação da Zomato Restaurant App
 
-    A Zomato API é uma plataforma de análises mais úteis para os amantes da gastronomia que querem provar as melhores culinárias de todas as partes do mundo que cabem no seu orçamento. É também para aqueles que querem encontrar restaurantes com boa relação custo-benefício em várias partes do país para as culinárias. Além disso, atende às necessidades de pessoas que estão se esforçando para obter a melhor culinária do país e qual localidade desse país serve essas culinárias com o número máximo de restaurantes. 
+    A Zomato API é uma plataforma de análises mais úteis para os amantes da gastronomia que querem provar as melhores culinárias de todas as partes do mundo que cabem no seu orçamento. É também para aqueles que querem encontrar restaurantes com boa relação custo-
+benefício em várias partes do país para as culinárias. Além disso, atende às necessidades de pessoas que estão se esforçando para obter a melhor culinária do país e qual localidade desse país serve essas culinárias com o número máximo de restaurantes. 
+
 Informações valiosas sobre métricas de negócio podem ser exploradas neste conjunto de dados através do link: https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
-
 # 1. Problema de negócio
-
-      A Zomato Restaurant App é um aplicativo que possui informações de diversos países,cidades, e tipos de culinária em escala global, e com isso gera muitos dados úteis para serem analisados e gerar novos insights visando o crescimento da empresa e melhoria para o usuário. De forma hipotética, fui contratada como Cientista de Dados da empresa Fome Zero (Zomato Restaurant App), e a minha principal tarefa nesse momento é ajudar o CEO Kleiton Guerra a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
-utilizando dados! A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações. O CEO Guerra também foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir das analises, e que sejam respondidas algumas perguntas sobre gerais sobre o negócios e mais específicas envolvendo os países, cidades, restaurantes e tipos de culinária de cada localidade.
+     A Zomato Restaurant App é um aplicativo que possui informações de diversos países,cidades, e tipos de culinária em escala global, e com isso gera muitos dados úteis para serem analisados e gerar novos insights visando o crescimento da empresa e melhoria para o usuário. 
+     De forma hipotética, fui contratada como Cientista de Dados da empresa Fome Zero (Zomato Restaurant App), e a minha principal tarefa nesse momento é ajudar o CEO Kleiton Guerra a identificar pontos chaves da empresa, respondendo às perguntas que ele fize utilizando 
+ dados! 
+    A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza informações como endereço, tipo 
+de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações. O CEO Guerra também foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores 
+decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir das analises, e que sejam respondidas algumas perguntas sobre gerais sobre o negócios e mais 
+específicas envolvendo os países, cidades, restaurantes e tipos de culinária de cada localidade.
+  
 
 # 2. Premissas do negócio
 
