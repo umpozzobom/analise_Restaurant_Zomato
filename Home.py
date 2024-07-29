@@ -16,12 +16,16 @@ st.write('# Zomato Restaurant Apps Dashboard')
 st.markdown(
   """
   Zomato Restaurant Dashboard foi construído para compreender e acompanhar as métricas de crescimento do negócio em diferentes âmbitos - Países, Cidades, Restaurantes e Tipos de culinária.
-  ### Como utilizar esse Growth Dashboard;?
-   - Visão Global: Métricas Globais de comportamento do negócio.
-   - Países: Acompahamento do crescimento de negócio com foco nos países e suas avaliações
-   - Cidades: Acompanhamento das principais cidades cadastradas na base de dados
-   - Restaurantes: Insights melhores e piores restaurantes segundo as métricas de Votos, Avaliações e Preço.
-   - Tipos de Culinária: Insights das melhores culinárias por país, restaurante, e tipo de culinárias
+  ### Contéudo deste Growth Dashboard: 
+      Visão Global: Métricas Globais de comportamento do negócio.
+
+      Países: Acompanhamento do crescimento de negócio com foco nos países e suas avaliações registradas pelos usuários
+
+      Cidades: Acompanhamento das principais cidades e sua relação com o tipo de restaurante, realização de reservas e entregas online, preço de pratos para dois,
+
+      Restaurantes: Análise dos melhores e piores restaurantes segundo as métricas de Votos, Avaliações e Preço.
+
+      Culinária: Comparações dos tipos de culinárias em relação a quantidade de avaliações, preço médio de cada país, e as melhores culinárias de acordo com a nota de avaliação
      
       -
     ### Ask to help - Ully Pozzobom - umpozzobom.costa@gmail.com
